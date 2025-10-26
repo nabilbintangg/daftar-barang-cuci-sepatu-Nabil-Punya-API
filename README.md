@@ -227,5 +227,5 @@ Response 200:
 
 ## Link
 
-- Repository: https://github.com/nabwelll/sepatu-wash-api
-- Vercel: https://<your-deploy-domain> (update setelah deploy)
+- Repository: https://github.com/nabilbintangg/daftar-barang-cuci-sepatu-Nabil-Punya-API
+- Vercel: https://daftar-barang-cuci-sepatu-na-git-383161-nabil-bintangs-projects.vercel.app
